@@ -1,0 +1,22 @@
+{
+  "name": "a-bit-more-traditional-portfolio",
+  "version": "1.0.0",
+  "description": "A (bit more traditional) portfolio that's aimed to be more succinct than my previous one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtorre39/a-bit-more-traditional-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtorre39/a-bit-more-traditional-portfolio/issues"
+  },
+  "homepage": "https://github.com/jtorre39/a-bit-more-traditional-portfolio#readme",
+  "dependencies": {
+    "typescript": "^3.4.5"
+  }
+}
